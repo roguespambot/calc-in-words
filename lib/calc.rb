@@ -54,6 +54,3 @@ def calc(input_string)
   return return_value
 end
 
-
-splitter("What is 2 plus 3? What is 7 divided by 4?")
-
